@@ -6061,6 +6061,7 @@ export function PrefectureOrdering(input: string): string {
 [/沖縄県\/多良間村/gi,'473758-taramason'],
 [/沖縄県\/竹富町/gi,'473812-taketomicho'],
 [/沖縄県\/与那国町/gi,'473821-yonagunicho'],
+[/北海道\/阿寒郡/gi,'100100'],
 [/北海道\/足寄郡/gi,'100200'],
 [/北海道\/厚岸郡/gi,'100300'],
 [/北海道\/網走郡/gi,'100500'],
